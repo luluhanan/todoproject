@@ -1,0 +1,15 @@
+.navbar{
+background-color:pink;
+margin-bottom:20px
+}
+.card{
+margin-bottom:20px
+}
+
+.navbar-brand{
+height:50px;
+padding-left:45%;
+color: #ff0099
+a {
+color: #ff0099
+}
